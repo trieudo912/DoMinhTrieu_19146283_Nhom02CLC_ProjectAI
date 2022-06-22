@@ -1,2 +1,1 @@
-# DoMinhTrieu_19146283_ProjectAI
-Đỗ Minh Triều_19146283_Nhóm02CLC
+# DoMinhTrieu_19146283_Nhom02CLC_ProjectAI
